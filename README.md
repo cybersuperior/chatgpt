@@ -2,6 +2,10 @@
 
 This repository contains OpenAI API Integration examples utilizing the Laravel framework. Use this repository as a resource to get a good idea of how to start integrating OpenAI into your own Laravel application.  A paid OpenAI API Key is required in order to get the application fully functional. 
 
+## YouTube Video Tutorial
+
+**ChatGPT ChatBot**: https://youtu.be/DhLaY7FDD7k
+
 ## Installation
 
 Ensure Laravel is installed, [official instructions](https://laravel.com/docs/10.x/installation)
